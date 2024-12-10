@@ -7,14 +7,14 @@ window.addEventListener('load', function () {
 	var game = new Phaser.Game({
 		width: 720,
 		height: 1280,
-		type: Phaser.AUTO,
+		typx: Phaser.AUTO,
         backgroundColor: "#242424",
 		audio: {
 			disableWebAudio: false	
 		},
 		scale: {
 			mode: Phaser.Scale.FIT,
-			autoCenter: Phaser.Scale.CENTER_BOTH
+        	autoCenter: Phaser.Scale.CENTER_BOTH,
 		}
 	});
 
@@ -31,7 +31,7 @@ class Boot extends Phaser.Scene {
 	}
 
 	create() {
-
+		this.scale.lockOrientation('portrait');
 		this.scene.start("Preload");
 	}
 }

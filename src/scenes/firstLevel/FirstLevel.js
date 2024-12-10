@@ -31,6 +31,10 @@ export default class FirstLevel extends Phaser.Scene {
 
     // Write your code here
 
+    preload() {
+        this.load.scenePlugin('rexuiplugin', 'https://raw.githubusercontent.com/rexrainbow/phaser3-rex-notes/master/dist/rexuiplugin.min.js', 'rexUI', 'rexUI');
+    }
+
     create() {
 
         this.editorCreate();

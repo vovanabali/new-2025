@@ -2,22 +2,14 @@
     "section1": {
         "files": [
             {
-                "url": "assets/Pixel Adventure/Items/Boxes/Box1/Break.png",
-                "frameConfig": {
-                    "frameWidth": 32,
-                    "frameHeight": 32,
-                    "startFrame": 0,
-                    "endFrame": -1,
-                    "spacing": 0,
-                    "margin": 0
-                },
-                "type": "spritesheet",
-                "key": "Break"
-            },
-            {
-                "url": "assets/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_3Slides.png",
+                "url": "assets/buttons/Button_Blue_3Slides.png",
                 "type": "image",
                 "key": "Button_Blue_3Slides"
+            },
+            {
+                "url": "assets/buttons/Button_Blue_3Slides_Pressed.png",
+                "type": "image",
+                "key": "Button_Blue_3Slides_Pressed"
             },
             {
                 "url": [
@@ -32,58 +24,14 @@
                 "type": "image"
             },
             {
-                "url": "assets/Pixel Adventure/Main Characters/Mask Dude/Double Jump (32x32).png",
-                "frameConfig": {
-                    "frameWidth": 32,
-                    "frameHeight": 32,
-                    "startFrame": 0,
-                    "endFrame": -1,
-                    "spacing": 0,
-                    "margin": 0
-                },
-                "type": "spritesheet",
-                "key": "Double Jump (32x32)"
-            },
-            {
                 "url": "assets/photos/father.png",
                 "type": "image",
                 "key": "father"
             },
             {
-                "url": "assets/Tiny Swords (Update 010)/Effects/Fire/Fire.png",
-                "frameConfig": {
-                    "frameWidth": 128,
-                    "frameHeight": 128,
-                    "startFrame": 0,
-                    "endFrame": -1,
-                    "spacing": 0,
-                    "margin": 0
-                },
-                "type": "spritesheet",
-                "key": "Fire"
-            },
-            {
-                "url": "assets/Pixel Adventure/Items/Boxes/Box1/Hit (28x24).png",
-                "type": "image",
-                "key": "Hit (28x24)"
-            },
-            {
                 "url": "assets/photos/house.png",
                 "type": "image",
                 "key": "house_1"
-            },
-            {
-                "url": "assets/Pixel Adventure/Items/Boxes/Box1/Idle.png",
-                "frameConfig": {
-                    "frameWidth": 32,
-                    "frameHeight": 32,
-                    "startFrame": 0,
-                    "endFrame": -1,
-                    "spacing": 0,
-                    "margin": 0
-                },
-                "type": "spritesheet",
-                "key": "Idle"
             },
             {
                 "url": [
@@ -105,17 +53,9 @@
                 "key": "pixel-anchor-jack_0"
             },
             {
-                "url": "assets/Pixel Adventure/Menu/Text/Text (White) (8x10).png",
-                "frameConfig": {
-                    "frameWidth": 8,
-                    "frameHeight": 10,
-                    "startFrame": 0,
-                    "endFrame": -1,
-                    "spacing": 0,
-                    "margin": 0
-                },
-                "type": "spritesheet",
-                "key": "Text (White) (8x10)"
+                "url": "assets/buttons/Ribbon_Blue_3Slides.png",
+                "type": "image",
+                "key": "Ribbon_Blue_3Slides"
             },
             {
                 "url": "assets/fonts/UndertaleFont-base/Undertale-Battle-Font.ttf",
@@ -128,11 +68,6 @@
                 "url": "assets/photos/varia.png",
                 "type": "image",
                 "key": "varia"
-            },
-            {
-                "url": "assets/Pixel Adventure/Background/Yellow.png",
-                "type": "image",
-                "key": "Yellow"
             }
         ]
     },
