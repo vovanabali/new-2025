@@ -1,0 +1,81 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/buttons/Button_Blue_3Slides.png",
+                "type": "image",
+                "key": "Button_Blue_3Slides"
+            },
+            {
+                "url": "assets/buttons/Button_Blue_3Slides_Pressed.png",
+                "type": "image",
+                "key": "Button_Blue_3Slides_Pressed"
+            },
+            {
+                "url": [
+                    "assets/music/button-click.mp3"
+                ],
+                "type": "audio",
+                "key": "button-click"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/photos/father.png",
+                "type": "image",
+                "key": "father"
+            },
+            {
+                "url": "assets/photos/house.png",
+                "type": "image",
+                "key": "house_1"
+            },
+            {
+                "url": [
+                    "assets/music/menu.mp3"
+                ],
+                "type": "audio",
+                "key": "menu"
+            },
+            {
+                "url": "assets/photos/menu house.png",
+                "type": "image",
+                "key": "menu house"
+            },
+            {
+                "url": "assets/fonts/Pixel Anchor-Jack-menu/pixel-anchor-jack_0.ttf",
+                "format": "truetype",
+                "descriptors": {},
+                "type": "font",
+                "key": "pixel-anchor-jack_0"
+            },
+            {
+                "url": "assets/buttons/Ribbon_Blue_3Slides.png",
+                "type": "image",
+                "key": "Ribbon_Blue_3Slides"
+            },
+            {
+                "url": "assets/fonts/UndertaleFont-base/Undertale-Battle-Font.ttf",
+                "format": "truetype",
+                "descriptors": {},
+                "type": "font",
+                "key": "Undertale-Battle-Font"
+            },
+            {
+                "url": "assets/photos/varia.png",
+                "type": "image",
+                "key": "varia"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

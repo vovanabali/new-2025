@@ -1,0 +1,102 @@
+{
+    "id": "ed19eddd-46be-4962-8731-4efc2f415ca3",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "MenuScene",
+        "borderWidth": 720,
+        "borderHeight": 1280
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "dd4931d3-4572-42f9-aa32-b3dc39e46235",
+            "label": "background",
+            "scope": "CLASS",
+            "texture": {
+                "key": "house_1"
+            },
+            "x": 357,
+            "y": 647,
+            "scaleX": 1.2,
+            "scaleY": 1.2
+        },
+        {
+            "type": "Layer",
+            "id": "8c2891be-6d08-41b9-b55f-fbef56487381",
+            "label": "startButtonLayer",
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "90a6c63f-4a9a-4fcc-af56-c50b05c7e822",
+                    "label": "buttonStartPressed",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "Button_Blue_3Slides_Pressed"
+                    },
+                    "x": 350.6666666666667,
+                    "y": 1064.4657389322917
+                },
+                {
+                    "type": "Image",
+                    "id": "b9ba50f4-e065-4881-9468-dde09bf00fd6",
+                    "label": "buttonStartIdle",
+                    "scope": "CLASS",
+                    "texture": {
+                        "key": "Button_Blue_3Slides"
+                    },
+                    "x": 350.6666666666667,
+                    "y": 1064.4657389322917
+                },
+                {
+                    "type": "Text",
+                    "id": "1fb8bc7f-e661-4223-8e57-535c6c98f714",
+                    "label": "startBtnLabel",
+                    "scope": "CLASS",
+                    "x": 351,
+                    "y": 1057,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "text": "Начать",
+                    "fontFamily": "pixel-anchor-jack_0",
+                    "fontSize": "25px"
+                }
+            ]
+        },
+        {
+            "type": "Image",
+            "id": "002b981c-3dd5-42e4-8eeb-7dc651302ed0",
+            "label": "ribbon_Blue_3Slides",
+            "texture": {
+                "key": "Ribbon_Blue_3Slides"
+            },
+            "x": 371,
+            "y": 114.57666015625,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "type": "Text",
+            "id": "9fca34d7-66eb-4e0b-a93d-74ad6be3795c",
+            "label": "text_1",
+            "x": 371,
+            "y": 98,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "2025",
+            "fontFamily": "pixel-anchor-jack_0",
+            "fontSize": "60px"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}
