@@ -1,0 +1,163 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_01.png",
+                "type": "image",
+                "key": "Disable_01"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_02.png",
+                "type": "image",
+                "key": "Disable_02"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_03.png",
+                "type": "image",
+                "key": "Disable_03"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_04.png",
+                "type": "image",
+                "key": "Disable_04"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_05.png",
+                "type": "image",
+                "key": "Disable_05"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_06.png",
+                "type": "image",
+                "key": "Disable_06"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_07.png",
+                "type": "image",
+                "key": "Disable_07"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_08.png",
+                "type": "image",
+                "key": "Disable_08"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_09.png",
+                "type": "image",
+                "key": "Disable_09"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Disable_10.png",
+                "type": "image",
+                "key": "Disable_10"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_01.png",
+                "type": "image",
+                "key": "Pressed_01"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_02.png",
+                "type": "image",
+                "key": "Pressed_02"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_03.png",
+                "type": "image",
+                "key": "Pressed_03"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_04.png",
+                "type": "image",
+                "key": "Pressed_04"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_05.png",
+                "type": "image",
+                "key": "Pressed_05"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_06.png",
+                "type": "image",
+                "key": "Pressed_06"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_07.png",
+                "type": "image",
+                "key": "Pressed_07"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_08.png",
+                "type": "image",
+                "key": "Pressed_08"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_09.png",
+                "type": "image",
+                "key": "Pressed_09"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Pressed_10.png",
+                "type": "image",
+                "key": "Pressed_10"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_01.png",
+                "type": "image",
+                "key": "Regular_01"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_02.png",
+                "type": "image",
+                "key": "Regular_02"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_03.png",
+                "type": "image",
+                "key": "Regular_03"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_04.png",
+                "type": "image",
+                "key": "Regular_04"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_05.png",
+                "type": "image",
+                "key": "Regular_05"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_06.png",
+                "type": "image",
+                "key": "Regular_06"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_07.png",
+                "type": "image",
+                "key": "Regular_07"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_08.png",
+                "type": "image",
+                "key": "Regular_08"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_09.png",
+                "type": "image",
+                "key": "Regular_09"
+            },
+            {
+                "url": "assets/Tiny Swords (Update 010)/UI/Icons/Regular_10.png",
+                "type": "image",
+                "key": "Regular_10"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
